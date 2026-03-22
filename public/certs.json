@@ -1,0 +1,13 @@
+[
+  { "file": "Claude 101.pdf",                                    "title": "Claude 101",                          "issuer": "Anthropic",      "category": "AI"           },
+  { "file": "Discover the Possibilities of Generative AI.pdf",   "title": "Discover Generative AI",              "issuer": "Online Course",  "category": "AI"           },
+  { "file": "Nano Tips for Using ChatGPT for Business.pdf",      "title": "ChatGPT for Business",                "issuer": "Online Course",  "category": "AI"           },
+  { "file": "Acmegrade Internship Certificate.pdf",              "title": "Acmegrade Internship",                "issuer": "Acmegrade",      "category": "Internship"   },
+  { "file": "Demystifying the .NET Platform Structure.pdf",      "title": "Demystifying .NET Platform",          "issuer": "Online Course",  "category": "Tech"         },
+  { "file": "Introduction to C with Unity.pdf",                  "title": "Introduction to C with Unity",        "issuer": "Online Course",  "category": "Tech"         },
+  { "file": "Aavishkar (Certificate of Achievement).pdf",        "title": "Aavishkar — Achievement",             "issuer": "Aavishkar",      "category": "Achievement"  },
+  { "file": "Aavishkar (Certificate of Participation).pdf",      "title": "Aavishkar — Participation",           "issuer": "Aavishkar",      "category": "Achievement"  },
+  { "file": "H.O.D Udaan.pdf",                                   "title": "H.O.D Udaan",                         "issuer": "College",        "category": "Achievement"  },
+  { "file": "Case Study Convegno.pdf",                           "title": "Case Study Convegno",                 "issuer": "Convegno",       "category": "Leadership"   },
+  { "file": "Debate Convegno.pdf",                               "title": "Debate Convegno",                     "issuer": "Convegno",       "category": "Leadership"   }
+]
